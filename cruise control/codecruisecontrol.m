@@ -1,5 +1,5 @@
 clc;
-clea all
+clear all
 close all
 
 
